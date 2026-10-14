@@ -1,0 +1,56 @@
+```css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+}
+
+h1 {
+    color: #263b80;
+}
+
+form {
+    background-color: white;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px #cccccc;
+}
+
+input {
+    padding: 10px;
+    margin-top: 8px;
+    width: 80%;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #263b80;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4059b5;
+}
+
+#studentList {
+    list-style: none;
+    padding: 0;
+}
+
+#studentList li {
+    background-color: white;
+    padding: 12px;
+    margin: 10px auto;
+    max-width: 400px;
+    border-radius: 6px;
+}
+```
